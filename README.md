@@ -1,7 +1,7 @@
 # 𝐍𝐎𝐁𝐈𝐓𝐀  𝐁𝐀𝐍𝐀𝐋𝐋 
 <h1 align="center"
  
-### 🚩https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝐏𝐎𝐖𝐄𝐑𝐄𝐃+𝐍𝐎𝐁𝐈𝐓𝐀+𝐋𝐔𝐂𝐊𝐍𝐎𝐖+𝐔𝐓𝐓𝐄𝐑+❣️+🌹 𝐏𝐑𝐀𝐃𝐄𝐒𝐇+🚩+🍁🚩 जय बजरंग बली 🚩🚩
+### 🚩🚩 जय बजरंग बली 🚩🚩
 <h1 align="center"
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
