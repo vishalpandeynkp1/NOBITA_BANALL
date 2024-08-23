@@ -5,7 +5,7 @@
 <h1 align="center"
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩++𝐏𝐎𝐖𝐄𝐑𝐄𝐃+𝐍𝐎𝐁𝐈𝐓𝐀+𝐋𝐔𝐂𝐊𝐍𝐎𝐖+𝐔𝐓𝐓𝐄𝐑++🚩+🍁"></b></h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩++𝐏𝐎𝐖𝐄𝐑𝐄𝐃+𝐍𝐎𝐁𝐈𝐓𝐀+𝐋𝐔𝐂𝐊𝐍𝐎𝐖+𝐔𝐓𝐓𝐄𝐑+𝐏𝐑𝐀𝐃𝐄𝐒𝐇+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝐓ᴇᴀᴍ 𝐏ᴜʀᴠɪ 𝐁ᴏᴛs</b></h1>
 <p align="center"><a href="https://ll_ALPHA_BABY_lll"><img src="https://graph.org/file/a132b8a2ddce47b50ccdd.jpg" width="400"></a></p>
